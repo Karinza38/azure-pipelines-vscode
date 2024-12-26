@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/mseng/PipelineTools/_apis/build/status%2FVSCode%20Extension%2Fvscode-extension-ci?repoName=microsoft%2Fazure-pipelines-vscode&branchName=main)](https://dev.azure.com/mseng/PipelineTools/_build/latest?definitionId=17236&repoName=microsoft%2Fazure-pipelines-vscode&branchName=main)
+ [![Build Status](https://dev.azure.com/mseng/PipelineTools/_apis/build/status%2FVSCode%20Extension%2Fvscode-extension-ci?repoName=microsoft%2Fazure-pipelines-vscode&branchName=main)](https://dev.azure.com/mseng/PipelineTools/_build/latest?definitionId=17236&repoName=microsoft%2Fazure-pipelines-vscode&branchName=main)
 
 # Azure Pipelines for VS Code
 
